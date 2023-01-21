@@ -1,0 +1,36 @@
+.texto_1 {
+    font-size: 2em;
+    font-family: 'Rubik Vinyl', cursive;
+    line-height: 2;
+    font-weight: 700;
+    background-color: aqua;
+}
+
+.segundo_texto {
+    color: red;
+}
+
+h2 {
+    background-color: aquamarine;
+    display: inline;
+    padding: 10px 10px 20px 10px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin: 20px 10px 10px 0px;
+    border-radius: 20px;
+    border: 10px solid yellow;
+    box-shadow: 2px 4px 15px black;
+    transform: rotate(10deg);
+}
+
+.hola {
+    border: solid;
+    padding: 10px;
+    box-shadow: 10px 10px 15px black;
+}
+
+.caja_1, .caja_2 {
+    width: 200px;
+    height: 200px;
+}
